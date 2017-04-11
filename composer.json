@@ -1,6 +1,6 @@
 {
     "name": "uecode/qpush-bundle",
-    "version": "3.0.1",
+    "version": "3.0.2",
     "type": "symfony-bundle",
     "description": "Asynchronous processing for Symfony using Push Queues (Tweaked for CRUK)",
     "keywords": [
@@ -36,7 +36,7 @@
         "symfony/monolog-bundle": "~2.3|^3.0"
     },
     "require-dev": {
-        "phpunit/phpunit": "~3.7",
+        "phpunit/phpunit": "^4.8",
         "aws/aws-sdk-php": "~2.5",
         "iron-io/iron_mq": "^4.0",
         "symfony/finder": "~2.3|^3.0",

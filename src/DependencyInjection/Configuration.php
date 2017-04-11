@@ -58,6 +58,7 @@ class Configuration implements ConfigurationInterface
         $node           = $treeBuilder->root('providers');
         $requirements   = [
             'aws' => [],
+            'aws_cruk' => [],
             'ironmq' => ['token', 'project_id'],
             'sync' => [],
             'custom' => ['service'],

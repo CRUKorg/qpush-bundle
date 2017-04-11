@@ -1,6 +1,6 @@
 {
     "name": "uecode/qpush-bundle",
-    "version": "3.0.1",
+    "version": "3.0.2",
     "type": "symfony-bundle",
     "description": "Asynchronous processing for Symfony using Push Queues (Tweaked for CRUK)",
     "keywords": [
